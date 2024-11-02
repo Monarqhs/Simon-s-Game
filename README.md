@@ -13,4 +13,5 @@ This project is a simple web-based version of the classic Simon Game. The game t
 - CSS: For styling and visual design.
 - JavaScript (ES6): For game logic and interactivity.
 - jQuery: For simplified DOM manipulation and event handling.
-- This project is part of The App Brewery course curriculum.
+
+**This project is part of The App Brewery course curriculum.**
