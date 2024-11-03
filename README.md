@@ -1,5 +1,6 @@
 # Simon-s-Game
 **Site: https://monarqhs.github.io/Simon-s-Game/**
+
 This project is a simple web-based version of the classic Simon Game. The game tests your memory skills by presenting a series of color sequences that you need to recall and repeat in the correct order. With each successful level, the sequence length increases, challenging your memory further as the game progresses.
 
 **How to Play**
